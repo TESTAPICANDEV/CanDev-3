@@ -42,10 +42,7 @@ In order to compare,constast and analyze each document, a maching learning model
 
 Using the doctovec model, we can convert any document into a series of vectors. These vector can then be compared to other documents.
 
-NLP converts the REGDOCS into a 2d vector by reviewing each document. Then the documents are compared to each other. In order to convert each document into 
-
-Using 
-
+NLP converts the REGDOCS into a 2d vector by reviewing each document. Then the documents are compared to each other. 
 
 
 ```{r, warning=FALSE, message=FALSE}
