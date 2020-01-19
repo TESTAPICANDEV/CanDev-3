@@ -1,0 +1,12 @@
+Data Dictionary – Regulatory Instruments ,,,,
+,,,,
+Regulatory Instrument Number,,,,"A Regulatory Instrument is an Order, a certificate, or a permit issued by the Canada Energy Regulator following a decision made under the Canadian Energy Regulatory Act. Different numbers are given depending on the application made under different parts of the Canadian Energy Regulatory Act"
+Order,,,,"A document that contains the Commission’s decision and any directions, terms or conditions. For example, the CER issues an Order under section 214 of the CER Act to approve small projects that do not require Government in Council (GIC) approval. Orders are also used for many non-facility applications."
+Certificate,,,,A Certificate of Public Convenience and Necessity (Certificate) is issued under section 183 or 262 of the Canadian Energy Regulator Act. A certificate needs GIC approval.  
+Letter / Letter decision,,,,"All letters issued by the Commission are decisions, but the Commission has regular letters that accompany an Order, a Certificate or a Permit. In some cases when the decision needs a quick response, the Commission issues a Letter Decision. "
+Expiry date,,,,The date the Regulatory Instruments expires unless the Project has commenced before that imposed date. 
+Privy Council ,,,,The secretariat of the federal cabinet of Canada
+Sunset Date,,,,A date imposed on a Certificate obliging the Company to construct a Project before an imposed deadline unless the Project has commenced by that date.
+REGDOCS# *,,,,This is the number given by the CER Regulatory Document web system.  To access this system please use the following link:  https://apps.cer-rec.gc.ca/regdocs
+,,,,* Some of the material on the REGDOCS site originates with organizations not subject to the Official Languages Act and is available only in the language in which it was written.
+Empty Columns,,,,"As many of the Regulatory instruments do not require Governor in Council approval, you will find many of the columns empty."
