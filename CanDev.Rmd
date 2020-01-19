@@ -1,0 +1,72 @@
+---
+title: "Regulations on GHG emissions"
+subtitle: ''
+author: "Shadow Dogs Unleashed"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    code_folding: hide
+    toc: True
+    toc_float: True
+---
+
+```{r setup, include=FALSE, warning=FALSE, message=FALSE}
+
+# Set some options
+knitr::opts_chunk$set(echo = TRUE, fig.height = 8, fig.width = 10)
+skimr::skim_with(numeric = list(hist = NULL))
+
+# load libraries
+
+library(ggthemes)
+library(janitor)
+library(lmtest)
+library(lubridate)
+library(plotly)
+library(plyr)
+library(rbokeh)
+library(skimr)
+library(tidyverse)
+library(viridis)
+
+
+```
+
+#Introduction
+
+In order to get a sastisfying conclusion, getting and generating  accurate datapoints are an extremely important process. More than simple just getting umbers, it is also important to understand other people's view on the events. By using National laungage processing, REGDOCS were anaylzed and convertedinto a 2d vector and is then visualized. This new number quantifies how to writer describes the event. 
+
+#Methodology
+
+In order to compare,constast and analyze each document, a maching learning model was created to convert each document into a 2d vector using doctocev. In doctovec, each vector had 500 dimensions. Since it impossible to visualize data with this many dimensions, tsne was incoportaed to reduce the amount of dimensions to 2. This allowed us to properly graphed and visualize in a 2d space. 
+
+Using the doctovec model, we can convert any document into a series of vectors. These vector can then be compared to other documents.
+
+NLP converts the REGDOCS into a 2d vector by reviewing each document. Then the documents are compared to each other. In order to convert each document into 
+
+Using 
+
+
+
+```{r, warning=FALSE, message=FALSE}
+dataset <- read_csv("Dataset/finalData.csv") 
+
+dataset$submitter<- revalue(dataset$submitter,c("National Energy Board" = "NEB"))
+
+x <- ggplot(dataset, aes(x = x, 
+                         y= y,
+                         color = submitter,
+                         key = name,
+                         key2 = submitter,
+                         key3 = date,
+                         key4 = link)) + 
+  geom_point(size = 0.5) +
+  theme(legend.position = 'none')+
+  labs(x = 'X value',
+       y = 'Y value',
+       title = 'REGDOCS information and value' )
+
+ggplotly(x,tooltip = c("name","submitter","date","link"), dynamicTicks = TRUE, layerData = 1,
+  originalData = TRUE, source = "A")
+
+```
