@@ -32,11 +32,11 @@ library(viridis)
 
 ```
 
-#Introduction
+# Introduction
 
 In order to get a sastisfying conclusion, getting and generating  accurate datapoints are an extremely important process. More than simple just getting umbers, it is also important to understand other people's view on the events. By using National laungage processing, REGDOCS were anaylzed and convertedinto a 2d vector and is then visualized. This new number quantifies how to writer describes the event. 
 
-#Methodology
+# Methodology
 
 In order to compare,constast and analyze each document, a maching learning model was created to convert each document into a 2d vector using doctocev. In doctovec, each vector had 500 dimensions. Since it impossible to visualize data with this many dimensions, tsne was incoportaed to reduce the amount of dimensions to 2. This allowed us to properly graphed and visualize in a 2d space. 
 
@@ -68,7 +68,7 @@ ggplotly(x,tooltip = c("name","submitter","date","link"), dynamicTicks = TRUE, l
 
 
 ```
-#Further exploration
+# Further exploration
 We currently have a working model that can take a document and convert it to a vector for analysis, we can now apply this to the search engine and sort elements by their similarity. We can also give businesses who send in documents, similar documents as precedent and to give them case studies to help them in their future filings.
 
 This model does not have to be limited to letters, it can apply to any categories and since we used selenium for search results, we aren't dependent on which categories we pick. 
