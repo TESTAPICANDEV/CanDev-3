@@ -33,8 +33,10 @@ library(viridis)
 ```
 
 # Introduction
+We decided to analyze the pdf documents in regdocs. We wanted to draw insights and build tools on a less explored dataset.
 
-In order to get a sastisfying conclusion, getting and generating  accurate datapoints are an extremely important process. More than simple just getting umbers, it is also important to understand other people's view on the events. By using National laungage processing, REGDOCS were anaylzed and convertedinto a 2d vector and is then visualized. This new number quantifies how to writer describes the event. 
+
+In order to get a sastisfying conclusion, getting and generating  accurate datapoints are an extremely important process. More than simple just getting numbers, it is also important to understand other people's view on the events. By using National laungage processing, REGDOCS were anaylzed and convertedinto a 2d vector and is then visualized. This new number quantifies how to writer describes the event. 
 
 # Methodology
 
