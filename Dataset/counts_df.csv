@@ -1,4 +1,4 @@
-submitter,receiver,counts
+submitter,receiver,amount
 "ALLETTE, Inc. d/b/a Minnesota Power",Canada Inc.,1
 Alberta Department of Energy,Enbridge Pipelines Inc.,1
 Alberta Department of Energy,Trans Mountain Pipeline ULC,1
@@ -33,33 +33,25 @@ EDF Trading North America LLC,Hydro-Quebec,1
 EDF Trading North America LLC,Independent Electricity System Operator (IESO),1
 EDF Trading North America LLC,Manitoba Hydro,1
 EDF Trading North America LLC,New Brunswick System Operator,1
-"EDF Trading North America, LLC","EDF Trading North America, LLC",1
 Ecojustice Canada,Trans Mountain Pipeline ULC,1
-Emera Brunswick Pipeline Company Ltd.,Emera Brunswick Pipeline Company Ltd.,1
 Emera Energy Inc.,Emera Energy Inc,1
-EnCana Corporation,EnCana Corporation,1
 Enbridge Bakken Pipeline Company Inc.,Enbridge Pipelines Inc.,1
 Enbridge Consumers Gas,Canada Inc.,1
 Enbridge Inc.,Enbridge Pipelines Inc.,1
-Enbridge Pipelines Inc.,Enbridge Pipelines Inc.,5
 Enbridge Pipelines Inc. and Enbridge Inc.,Enbridge Pipelines Inc.,1
 Energie NB Power,New Brunswick Power Corporation,1
-Energy East Pipeline Ltd.,Energy East Pipeline Ltd.,2
 Energy East Pipeline Ltd. and TransCanada PipeLines Limited,Energy East Pipeline Ltd.,1
 Environment Canada,Imperial Oil,1
 Environmental Defence,Energy East Pipeline Ltd.,1
 Equiterre (Coalition),Enbridge Pipelines Inc.,1
-Ferus Natural Gas Fuels Inc.,Ferus Natural Gas Fuels Inc.,1
 Foothills Pipe Lines Ltd.,Foothills Pipe Lines Ltd,1
 Fron Lake First Nations,Energy East Pipeline Ltd.,1
 "GNWT, Department of Industry, Tourism and Investment",Sea Breeze Victoria Converter Corporation,1
-"Great Bay Energy VI, LLC","Great Bay Energy VI, LLC",1
 Independent Electricity System Operator,Independent Electricity System Operator (IESO),1
 Industrial Gas Users Association,The Queen in Right of the Province of New Brunswick,1
 Irving Energy Services Ltd.,The Queen in Right of the Province of New Brunswick,1
 Irving Oil Ltd.,The Queen in Right of the Province of New Brunswick,1
 Kinder Morgan Cochin ULC and Kinder Morgan Utopia Ltd.,Kinder Morgan Utopia Ltd.,1
-Many Islands Pipe Lines (Canada) Limited,Many Islands Pipe Lines (Canada) Limited,1
 Maria La Rocca,TransCanada PipeLines Limited,1
 Maritime Electric Company,The Queen in Right of the Province of New Brunswick,1
 Mi'gmawe'l Tplu'taqnn Incorporated,ExxonMobil Canada Ltd.,1
@@ -90,7 +82,6 @@ NEB,Triton LNG Limited Partnership,1
 NEB,Twin Rivers Paper Company Inc,1
 NEB,Vantage Pipeline Canada ULC,1
 NEB,Westcoast Energy Inc.,1
-NOVA Gas Transmission Ltd.,NOVA Gas Transmission Ltd.,12
 NOVA Gas Transmission Ltd.,TransCanada PipeLines Limited,1
 National Energy Board,A C LNG INC.,1
 National Energy Board,Alberta Ltd,1
@@ -138,23 +129,19 @@ National Energy Board,"Williams Energy Marketing & Trading Canada, Inc.",1
 National Energy Board,Woodside Energy Holdings Pty Ltd.,2
 New Brunswick Energy Marketing Corporation,New Brunswick Power Generation Corporation,1
 New Brunswick Power Corporation,New Brunswick System Operator,1
-NewTimes Energy Ltd,NewTimes Energy Ltd,1
 Nideva Properties Inc.,Union Gas Limited,1
 Northland Power Energy Marketing (US) Inc.,Hydro-Quebec,1
 Pacific Traverse Energy,Pacific Traverse Energy Ltd.,1
 Panel-Commission,British Columbia Hydro and Power Authority,1
 Papaschase Cree Nation,Westcoast Energy Inc.,1
 Patrick G. Duffy,Scotia Capital Energy Inc,1
-Petrogas Energy Corp.,Petrogas Energy Corp.,1
 Powerex Corp.,Powerex Corp,2
 Pro Information Pro Environment United People Network,Trans Mountain Pipeline ULC,1
-Rainbow Energy Marketing Corporation,Rainbow Energy Marketing Corporation,1
 Rob Power,Alliance Pipeline Ltd,1
 Robyn Allan,Trans Mountain Pipeline ULC,2
 SaskEnergy International,The Queen in Right of the Province of New Brunswick,1
 Saskatchewan Power Corporation,Canada Energy Regulator,1
 SemCAMS,SemCAMS Redwillow ULC,1
-SemCAMS Redwillow ULC,SemCAMS Redwillow ULC,1
 SemCAMS ULC,SemCAMS Redwillow ULC,1
 Sempra Energy Trading Corp.,TransCanada PipeLines Limited,1
 Sequent Energy Canada Corp.,Canada Energy Regulator,1
@@ -163,18 +150,12 @@ Squamish Nation,Canada Inc.,1
 "Tracel Energy Marketing Inc., on behalf of Tracel Energy Marketing Limited Partnership 1","Tracel Energy Marketing Inc., on behalf of Tracel Energy Marketing Limited Partnership",1
 Trans Mountain Pipeline ULC,Canada Energy Regulator,3
 Trans Mountain Pipeline ULC,Canada Inc.,1
-Trans Mountain Pipeline ULC,Trans Mountain Pipeline ULC,14
 Trans-Northern Pipelines Inc.,Trans-Northern Pipelines Inc,1
 TransCanada,TransCanada Keystone Pipeline GP Ltd.,1
-TransCanada Keystone Pipeline GP Ltd.,TransCanada Keystone Pipeline GP Ltd.,2
 TransCanada Keystone Pipelines GP Ltd.,TransCanada Keystone Pipeline GP Ltd.,1
-TransCanada PipeLines Limited,TransCanada PipeLines Limited,6
 Transition Initiative Kenora,Canada Ltd,1
 Tsleil-Waututh Nation,Trans Mountain Pipeline ULC,1
-"USGen New England, Inc.","USGen New England, Inc.",1
 Union Gas Limited,TransCanada PipeLines Limited,2
-Vantage Pipeline Canada ULC,Vantage Pipeline Canada ULC,2
-WCC LNG Ltd.,WCC LNG Ltd.,1
 "Westcoast Energy Inc., carrying on business as Duke Energy Gas Transmission",Westcoast Energy Inc.,1
 "Westcoast Energy Inc., carrying on business as Spectra Energy Transmission",Westcoast Energy Inc.,1
 "Westcoast Energy Inc., doing business as Spectra Energy Transmission",Westcoast Energy Inc.,1
