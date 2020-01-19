@@ -66,4 +66,13 @@ x <- ggplot(dataset, aes(x = x,
 ggplotly(x,tooltip = c("name","submitter","date","link"), dynamicTicks = TRUE, layerData = 1,
   originalData = TRUE, source = "A")
 
+
 ```
+#Further exploration
+We currently have a working model that can take a document and convert it to a vector for analysis, we can now apply this to the search engine and sort elements by their similarity. We can also give businesses who send in documents, similar documents as precedent and to give them case studies to help them in their future filings.
+
+This model does not have to be limited to letters, it can apply to any categories and since we used selenium for search results, we aren't dependent on which categories we pick. 
+
+The model is also saved to our directory, we can load the model at any time and train more datasets to it.
+
+Another great extension would be to build a tsne of every document as opposed to just the letters we went through, tsne models are dependent on the data given so we would have to recall the funtion. This could give government officials a better overall view of how the unstructured data looks.s
